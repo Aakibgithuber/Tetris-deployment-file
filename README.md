@@ -1,1 +1,1 @@
-# Tetris-manifest
+# Tetris-deployment file
